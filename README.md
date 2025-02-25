@@ -1,7 +1,3 @@
-# c2c-go-starter
-
-This project provides a Golang development environment pre-configured for use with [GitHub Codespaces](https://docs.github.com/en/codespaces). Students can create Codespaces from this repository whenever they need to code in Golang for this course
-
 ## Getting Started
 
 To use this project, follow these steps:
@@ -20,17 +16,7 @@ To use this project, follow these steps:
    - Open a terminal in the Codespace and run the following command:
 
      ```bash
-     go run hello.go
+     go run main.go
      ```
 
-   - Alternatively, open the `hello.go` file in the editor and click the play button at the top-right corner.
-
-## Key Features
-
-- **Pre-configured Python Environment:** Includes essential tools and extensions for Python development.
-
-## About This Repository
-
-This project is intended to serve as a starting point for Python development throughout the course.
-
-For more details about using Codespaces and devcontainers, refer to [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces).
+   - Alternatively, open the `main.go` file in the editor and click the play button at the top-right corner.
